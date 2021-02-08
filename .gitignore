@@ -1,32 +1,12 @@
-# Prerequisites
-*.d
+# VS studio
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+Source
+Algorithms.vcxproj.user
+Algorithms.vcxproj.filters
+Algorithms.vcxproj
+Debug
 
-# Precompiled Headers
-*.gch
-*.pch
+# VS code
+.vscode/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
