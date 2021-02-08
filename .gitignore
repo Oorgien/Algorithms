@@ -1,0 +1,12 @@
+# VS studio
+
+Source
+Algorithms.vcxproj.user
+Algorithms.vcxproj.filters
+Algorithms.vcxproj
+Debug
+
+# VS code
+.vscode/
+
+
