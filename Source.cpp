@@ -5,7 +5,7 @@
 #include <algorithm>
 #include <iostream>
 
-#include "1 sem/1-3. Dinamic programming/G-Paretheses deletion.h"
+#include "1 sem/1-3. Dinamic programming/H-Seller.h"
 
 int main() {
 	compound();
