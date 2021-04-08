@@ -5,7 +5,7 @@
 #include <algorithm>
 #include <iostream>
 
-#include "1 sem/1-3. Dinamic programming/H-Seller.h"
+#include "2 sem/2-1. Segment tree/B-RSQ.h"
 
 int main() {
 	compound();
